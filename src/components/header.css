@@ -1,0 +1,12 @@
+.topheading{
+    background-color:white;
+    display:"flex"s;
+}
+.heading{
+    color: #d54d7b; font-family: "Great Vibes", cursive; 
+    font-size: 30px; 
+    
+    font-weight: normal; margin-bottom: 0px;
+     text-align: center; text-shadow: 0 1px 1px #fff; 
+    text-align: center;
+}
